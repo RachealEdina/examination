@@ -1,0 +1,229 @@
+.link{
+    display: flex;
+    list-style: none;
+    padding: 67px;
+    
+    margin-bottom: 0px;
+    justify-content: space-between;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Algerian;
+    font-size: 15px;
+}
+.card-text{
+    text-align: center;
+}
+#asset{
+    justify-content: center;
+    border-radius: 50px;
+}
+.down{
+    display: flex;
+    background-color: rgb(29, 24, 24);
+    color: white;
+    justify-content: space-evenly;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.graduate{
+    display: flex;
+    justify-content: space-between;
+    background-size: cover;
+
+}
+.wed{
+    display: flex;
+    justify-content: space-between;
+}
+#d{
+    border-radius: 50px; 
+}
+.nav{
+    background-color: black;
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    top: 100px;
+}
+
+
+.second{
+background-color: rgba(0, 0, 0, 0.541);
+width: 96%;
+height: 80px;
+position: absolute;
+top: 30px;
+left: 20px;
+border-radius: 50px;
+
+
+}
+
+.fourth{
+  background-color: rgb(14, 10, 10); 
+  height: 150px; 
+  width: 100%;
+}
+
+.list{
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+.list li{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.list li a{
+    color: white;
+    text-decoration: none;
+}
+.list li a :hover{
+    color: white;
+
+}
+.s{
+    color: white;
+    padding-top: 20px;
+}
+.d-flex{
+    
+    top: 450px;
+    position: relative;
+    justify-content: right;
+}
+.nv{
+    background-color: black;
+width: 90%;
+height: 80px;
+position: absolute;
+top: 200px;
+left: 40px;
+border-radius: 50px;
+}
+.sec{
+    
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+    color: white;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: left;
+    padding-left: 300px;
+    font-size: 20px;
+}
+.sec li{
+    color: white;
+}
+.sec li a{
+    color: white;
+    text-decoration: none;
+}
+.dropdown-item{
+    color: black;
+}
+
+.black
+{
+    color: black;
+}
+/* .E{
+    text-align: center;
+    font-family: ALGERIAN;
+    color: white;
+    top: 60px;
+    font-style: bold;
+    font-size: 40px; */
+    
+
+.sd{
+    
+    position: absolute;
+    background-image: url();
+height: 90px;
+width: 100%;
+background-size: cover;
+border-radius: 5px;
+font-family:forte ;
+font-size: 25px;
+
+}
+/* .floral{
+    display: flex;
+    justify-content: space-between;
+} */
+.sr{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    padding: 30px;
+    border-radius: 50px;
+    justify-content: space-between;
+}
+.alone{
+    font-size: 35px;
+     text-align: left;
+    padding-right: 100px;
+}
+.nice{
+    
+    
+    position: relative;
+    top: 650px;
+
+}
+/* .input-group{
+    size: 50px;
+    width: 90px;
+    height: 40px;
+}
+
+
+
+
+
+
+.bn{
+    background-image: url(./rings.jpg);
+    color: white;
+    background-size: cover;
+}
+.nb{
+    height: 40px;
+    width:350px;
+    border-radius: 0px;
+}
+.contact{
+    text-align: center;
+    background-image: url(./black.jpg);
+    background-size: cover;
+    height: 500px;
+    top: 3px;
+    
+}
+.ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding-bottom: 30px;
+} */
+.in{
+    height: 250px;
+    width: 250px;
+    top: 120px;
+    
+}
+.log{
+   text-align: center;
+   background-image: url(./floral\ \ \(2\).jpg);
+   font-family: ALGERIAN;
+   font-weight: bold;
+   font-size: 20PX;
+   color: white;
+   top: 60px;
+   background-size: cover;
+   color: whitesmoke;
+}

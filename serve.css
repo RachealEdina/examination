@@ -1,0 +1,137 @@
+.sec{
+    
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+    color: white;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: left;
+    padding-left: 300px;
+    font-size: 20px;
+}
+.sec li{
+    color: white;
+}
+.sec li a{
+    color: white;
+    text-decoration: none;
+}
+.dropdown-item{
+    color: black;
+}
+
+.black{
+color: black;
+}
+.sd{
+    
+    background-color: darkslategray;
+height: 90px;
+width: 100%;
+background-size: cover;
+border-radius: 5px;
+font-family:forte ;
+font-size: 25px;
+position: absolute;
+
+}
+.fourth{
+    background-color: rgb(14, 10, 10); 
+    height: 150px; 
+    width: 100%;
+  }
+  
+.n{
+    background-color: darkslategray;
+    background-size: cover;
+    
+}
+.alone{
+    font-size: 35px;
+     text-align: left;
+    padding-right: 100px;
+  }
+.v{
+    border-radius: 60%;
+    border-style: groove;
+}
+.x{
+    border-radius: 50%;
+    border-style: solid;
+}
+.h{
+    border-style: dotted;
+    border-radius: 45%;
+    justify-content: right;
+   
+}
+.f{
+    font-family: forte;
+    font-size: 35px;
+    color: white;
+}
+.ashers{
+   width: 80%;
+   margin: auto;
+   
+}
+.ashers .cd{
+   justify-content: space-around;
+display: flex;
+width: 100%;
+flex-wrap: wrap;
+}
+.ashers .card{
+ width: 300px;
+ display: flex;
+ height: 400px;
+ flex-direction: column;
+ justify-content: center;
+ background-color: black;
+ border-radius: 50%;
+ overflow: hidden;
+ margin: 5px;
+ box-shadow: 0 0 50px rgb(14, 10, 10);
+ color: white;
+ font-family: calibri;
+}
+.card-text{
+    text-align: center;
+    text-transform: capitalize;
+}
+.ashers .card:hover{
+    border: 3px solid pink;
+}
+.cars{
+    width: 80%;
+    margin: auto;
+    
+ }
+ .cars .car{
+    justify-content: space-around;
+ display: flex;
+ width: 100%;
+ flex-wrap: wrap;
+ }
+ .cars .hire{
+  width: 300px;
+  display: flex;
+  height: 400px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+  border-radius: 50px;
+  overflow: hidden;
+  margin: 5px;
+  box-shadow: 0 0 50px rgb(14, 10, 10);
+  color: white;
+  font-family: forte;
+ }
+ .card-text{
+     text-align: center;
+     text-transform: capitalize;
+ }
+ .cars .hire:hover{
+     border: 3px solid pink;
+ }
